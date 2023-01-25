@@ -8,10 +8,10 @@ https://www.youtube.com/watch?v=xAoCq-e6HbE
 https://www.youtube.com/watch?v=Y7_IhVYXzFQ
 
 003 - Nome, Apelido, tamanho (C)  
-(Need upload)
+https://www.youtube.com/watch?v=B5Vt2rKWKe4
 
 004 - FizzBuzz (C)  
-(Need upload)
+https://www.youtube.com/watch?v=yAoADI4TO48
 
 005 - Consumo Combustível (C)  
-(Need upload)
+https://www.youtube.com/watch?v=3El004TR26s
