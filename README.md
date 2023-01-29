@@ -14,4 +14,13 @@ https://www.youtube.com/watch?v=B5Vt2rKWKe4
 https://www.youtube.com/watch?v=yAoADI4TO48
 
 005 - Consumo Combustível (C)  
-https://www.youtube.com/watch?v=3El004TR26s
+https://www.youtube.com/watch?v=3El004TR26s 
+
+006 - Soma agregada  
+https://www.youtube.com/watch?v=4sMQuyoFpfI	
+
+007 - Validação de triangulo  
+https://www.youtube.com/watch?v=tGTYCD8HL-w	
+
+008 - Tabuada  
+https://www.youtube.com/watch?v=rNH8QJblcl0 
