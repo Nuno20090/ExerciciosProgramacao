@@ -2,7 +2,7 @@
 Para dúvidas, exercícios que gostassem de ver resolvidos, mandem mail para  
 nunoacostastreams@gmail.com
 
-# Exercicios de Programacao
+# Exercicios de Programação
 Código dos exercicios resolvidos no Twitch / Youtube
 
 001 - Novo Projecto C++ (Visual Studio)  
